@@ -1,7 +1,7 @@
 {
-  "version": "0.3.0",
+  "version": "0.3.1",
   "downloadUrl": "https://raw.githubusercontent.com/jointernet49-del/Streamwall-Downloads/main/StreamWallPortable.zip",
   "installerUrl": "https://raw.githubusercontent.com/jointernet49-del/Streamwall-Downloads/main/StreamWallInstaller.zip",
-  "sha256": "69D390D8F8D07602BC9209A49D00E32E9030C482418563E2B8DED73D8269BF97",
-  "notes": "公開ダウンロード先へ自動更新経路を移しました。"
+  "sha256": "46660FDE278BB5914C863372DA04EEE21882CF369D6F349331E0A0391D911414",
+  "notes": "ボタンアイコンの同梱漏れを修正し、配信窓の追加を安定化しました。配信準備中は待機キャラを表示します。"
 }
